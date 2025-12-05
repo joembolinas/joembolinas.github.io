@@ -22,3 +22,10 @@ lerna-debug.log*
 .DS_Store
 Thumbs.db
 
+# speciific files
+.md
+1.md
+.html
+.log
+.txt
+
