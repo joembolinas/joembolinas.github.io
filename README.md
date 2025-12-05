@@ -24,7 +24,7 @@ This portfolio serves as both a learning documentation tool and a professional s
 - Professional development and soft skills
 
 > [!NOTE]
-> **Current Status**: Phase 1 (Documentation & Planning)  
+> **Current Status**: Phase 1 (Documentation & Planning)
 > The project is in its initial documentation phase, establishing the foundation for a comprehensive portfolio system.
 
 ## Features
@@ -41,9 +41,8 @@ This portfolio serves as both a learning documentation tool and a professional s
 
 - Interactive project galleries with live demos
 - Downloadable portfolio exports
-- Integration with learning management systems
 - Progress tracking dashboards
-- Multi-language support
+- 
 
 ## Development Standards
 
@@ -89,11 +88,11 @@ joembolinas.github.io/
 
 ### Key Files
 
-| File | Description |
-|------|-------------|
-| `README.md` | Project overview and documentation |
-| `commit.prompt.md` | Git commit message automation guide |
-| `.github/copilot-instructions.md` | GitHub Copilot custom instructions |
+| File                                | Description                         |
+| ----------------------------------- | ----------------------------------- |
+| `README.md`                       | Project overview and documentation  |
+| `commit.prompt.md`                | Git commit message automation guide |
+| `.github/copilot-instructions.md` | GitHub Copilot custom instructions  |
 
 ## Getting Started
 
@@ -112,12 +111,11 @@ joembolinas.github.io/
    git clone https://github.com/joembolinas/joembolinas.github.io.git
    cd joembolinas.github.io
    ```
-
 2. **Start development**
+
    - Open the project in your preferred code editor
    - Make changes to HTML/CSS/JavaScript files
    - Test locally using a live server
-
 3. **Commit changes**
 
    ```bash
@@ -125,8 +123,8 @@ joembolinas.github.io/
    git commit -m "feat: add new feature description"
    git push origin main
    ```
-
 4. **View on GitHub Pages**
+
    - Visit `https://joembolinas.github.io`
    - Changes may take a few minutes to deploy
 
