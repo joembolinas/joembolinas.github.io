@@ -208,6 +208,10 @@ Across technology fields, employer research consistently highlights soft skill d
 
 This comprehensive examination of academic journey portfolios reveals their significant potential for enhancing technology education outcomes. Portfolios address genuine gaps between traditional academic documentation and the competency demonstration that technology employers seek. When effectively implemented, portfolios support metacognitive development, provide authentic assessment alternatives, and create lasting tools for professional identity development and career advancement.
 
+
+
+## tip
+
 The key components of effective portfolios, reflective statements, achievement documentation, learning evidence, skills inventories, goal setting, and feedback integration, work together to create comprehensive pictures of student development. The portfolio creation process, while demanding investment, develops valuable professional skills including curation, reflection, design thinking, and strategic self-presentation.
 
 Digital platforms offer diverse options for portfolio implementation, with selection depending on student technical capabilities, disciplinary norms, and long-term sustainability considerations. Emerging AI-assisted tools may lower barriers while raising questions about portfolio authenticity and learning value.
